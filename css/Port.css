@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+#portafolio h1{
+	font-size: 80px;
+	font-family: "IBMPlexSans-Bold";
+	text-align: center;
+}
+#Digital{
+	padding: 40px;
+	
+}
+
+#Digital h4{
+	padding: 20px;
+	font-size: 30px;
+	color: #8A10F8;
+}
+
+#foto{
+	padding: 40px;
+}
+
+#foto h4{
+	padding: 20px;
+	font-size: 30px;
+	color: #8A10F8;
+}
+
+
+#foto2{
+	padding: 40px;
+}
+
+#foto2 h4{
+	padding: 20px;
+	font-size: 30px;
+	color: #8A10F8;
+	}
+
+#libro{
+	padding: 40px;
+}
+
+#libro h4{
+	padding: 20px;
+	font-size: 30px;
+	color: #8A10F8;
+	}
+
+
+#producto{
+	padding: 40px;
+}
+
+#producto h4{
+	padding: 20px;
+	font-size: 30px;
+	color: #8A10F8;
+	}
+
+
+
+#info{
+	padding: 40px;
+}
+
+#info h4{
+	padding: 20px;
+	font-size: 30px;
+	color: #8A10F8;
+	}
+
+#mas {
+	padding: 40px;
+	background-position: center;
+	text-align: center;
+	}
+
+#mas h3{
+	padding: 40px;
+	font-size: 50px;
+	font-family: "IBMPlexSans-Bold";
+	color: #00000;
+	background-position: center;
+	text-align: center;
+	}
+

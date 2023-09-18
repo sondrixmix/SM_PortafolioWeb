@@ -1,0 +1,36 @@
+#services {
+	padding:100px;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+#services h4{
+	color: #000000;
+	font-size: 30px;
+	font-weight: 600;
+	padding: 20px;
+}
+
+#services p{
+	color:#000000;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.la-envelope-open-text{
+	color: #8A10F8;
+	font-size: 180px;
+	margin-bottom: 20px;
+	
+} 
+ 
+.la-mobile{
+	color: #8A10F8;
+	font-size: 180px;
+	margin-bottom: 20px;
+}
+
+.la-cloud-download-alt{
+	color: #8A10F8;
+	font-size: 180px;
+	margin-bottom: 20px;
+	}

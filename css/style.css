@@ -1,0 +1,100 @@
+
+
+@font-face{
+	font-family: "IBMPlexSans";
+	src: url("../fonts/IBMPlexSans/IBMPlexSans-Regular.ttf") format("truetype");
+}
+
+header{
+	background-image:url("../image/maybe header.jpg");
+	opacity: inherit;
+	background-color:#000000;
+	background-position:top;
+	
+}
+
+
+.lab-instagram{
+	color: #53c3c9;
+	font-size: 40px;
+}
+
+
+#hero h1{
+	font-size: 80px;
+	font-family: "IBMPlexSans-Bold";
+}
+
+#hero h2{
+	font-size: 80px;
+	font-family: "IBMPlexSans-Bold";
+}
+
+#hero p{
+	font-size: 40px;
+	font-family: "IBMPlexSans-Bold";
+}
+
+
+
+#hero h2{
+	color: #FFFFFF;
+}
+
+
+#hero h1{
+	color: #8A10F8;
+}
+
+#hero p{
+	color: #FCFCFC;
+	padding-bottom: 30px;
+}
+
+
+#hero{
+	background-color: #F3E8F8;
+	background-image: url("../image/Retrato Tipográfico_Anya Taylor_ Sondra Mejía.jpg");
+	background-size: cover;
+	background-position: center center;
+	text-align: center;
+	padding: 200px 0;
+	
+}
+
+.btn-light{
+	padding: 20px 40px;
+	color: #8A10F8;
+	font-size: 25px;
+	font-family: "IBMPlexSans-Bold";
+	
+}
+.navbar{
+	background: url("../image/maybe header.jpg");
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: left;
+}
+
+footer{
+	background-color: black;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+
+footer p{
+	color: white;
+}
+
+footer i{
+	color: white;
+	font-size: 40px;
+}
+
+footer img{
+	margin-right: 30px;
+}
+

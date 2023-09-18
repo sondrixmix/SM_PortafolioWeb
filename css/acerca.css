@@ -1,0 +1,21 @@
+#sobre {
+	padding: 50px;
+}
+
+#sobre h2{
+	font-size: 80px;
+	font-family: "IBMPlexSans-Bold";
+	color:#7E03AC;
+	background-position: left;
+}
+
+#sobre p{
+	font-size: 30px;
+	font-family:"Arial";
+}
+
+#badge {
+	background-image: url("../image/Badge-Photo-removebg-preview.png");
+	background-position:center;
+	padding: 240px;
+}
